@@ -1,6 +1,6 @@
 import cv2
 import pickle
-import cvzone
+import cvzone  # cvzone version: 1.5.3
 import numpy as np
 
 cap = cv2.VideoCapture("car_park.mp4")
